@@ -1,0 +1,46 @@
+{
+  "name": "lisbon",
+  "author": "Engin Polat",
+  "license": "MIT",
+  "version": "0.0.1",
+  "scripts": {
+    "clean": "./build-serve-deploy.ps1 --clean",
+    "build": "./build-serve-deploy.ps1 --build",
+    "serve": "./build-serve-deploy.ps1 --serve",
+    "deploy": "./build-serve-deploy.ps1 --deploy",
+    "all": "./build-serve-deploy.ps1 --all"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/polatengin/lisbon"
+  },
+  "keywords": [
+    "devops",
+    "dashboard",
+    "status"
+  ],
+  "private": true,
+  "dependencies": {
+    "vss-web-extension-sdk": "5.141.0"
+  },
+  "devDependencies": {
+    "@types/node": "12.12.7",
+    "clean-webpack-plugin": "3.0.0",
+    "copy-webpack-plugin": "5.0.5",
+    "css-loader": "3.2.0",
+    "html-minifier-webpack-plugin": "2.2.1",
+    "html-webpack-plugin": "3.2.0",
+    "http-server": "0.11.1",
+    "istanbul": "0.4.5",
+    "mini-css-extract-plugin": "0.8.0",
+    "postcss-loader": "3.0.0",
+    "sass-loader": "8.0.0",
+    "tfx-cli": "0.7.9",
+    "ts-loader": "6.2.1",
+    "ts-node": "8.4.1",
+    "tslint": "5.20.1",
+    "typescript": "3.7.2",
+    "webpack": "4.41.2",
+    "webpack-cli": "3.3.10"
+  }
+}
