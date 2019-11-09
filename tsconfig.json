@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist/",
+    "noImplicitAny": false,
+    "forceConsistentCasingInFileNames": false,
+    "module": "amd",
+    "target": "es6",
+    "sourceMap": true,
+    "types": [
+      "vss-web-extension-sdk"
+    ],
+    "allowJs": true
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
