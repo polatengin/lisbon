@@ -100,4 +100,14 @@ After cloning this repository, you can execute following commands in your favori
 ./build-serve-deploy.sh --deploy
 ```
 
+## References
+
+* [Developing extension for Azure DevOps](https://docs.microsoft.com/en-us/azure/devops/extend/overview?view=azure-devops)
+* [Extension Manifest Reference](https://docs.microsoft.com/en-us/azure/devops/extend/develop/manifest?view=azure-devops)
+* [Azure DevOps Extension SDK](https://developer.microsoft.com/en-us/azure-devops/develop/extensions)
+* [Develop a web extension for Azure DevOps Services](https://docs.microsoft.com/en-us/azure/devops/extend/get-started/node?view=azure-devops)
+* [Package, publish, unpublish, and install Azure DevOps Services extensions](https://docs.microsoft.com/en-us/azure/devops/extend/publish/overview?view=azure-devops)
+* [Sample Extensions](https://github.com/microsoft/vsts-extension-samples)
+* [Pure CSS Percentage Circle](http://circle.firchow.net/)
+
 > I learned creating and publishing an extension to Azure DevOps Marketplace by doing it. I had a chance to work with brilliant people in an internal hack in Microsoft, many kudos to, _Todd Venhaus_, _Oliver Scheer_, _Ian Chen_, _Dariusz Porowski_. They helped me a lot to understand the steps and fine-tune the code.
