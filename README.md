@@ -28,6 +28,8 @@ Fill the form to create publisher
 
 ![Creating Azure DevOps Marketplace Publisher Account](./creating-azure-devops-marketplace-publisher-account.png "Creating Azure DevOps Marketplace Publisher Account")
 
+> Remember the ID field. It'll needed to set in the manifest file of the extension
+
 Review [Marketplace Publisher Agreement](https://aka.ms/vsmarketplace-agreement)
 
 Click _Create_ button
