@@ -88,7 +88,7 @@ Simple Widget only has _simple_ elements on screen, but Complex Widget has a dia
 
 I also add a [PowerShell](./build-serve-deploy.ps1) and [Bash](./build-serve-deploy.sh) script files, to make it easier to clean, build, serve and deploy the project.
 
-After cloning this repository, you can execute following commands in your favorite Terminal (my favorite is [Microsoft Terminal](https://github.com/microsoft/terminal) 😀
+After cloning this repository, you can execute following commands in your favorite Terminal (_my favorite is [Microsoft Terminal](https://github.com/microsoft/terminal) 😀_)
 
 ```bash
 # remove ./dist folder
