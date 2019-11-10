@@ -26,6 +26,8 @@ Sign-in to [Visual Studio Marketplace Publishing Portal](https://marketplace.vis
 
 Fill the form to create publisher
 
+![Creating Azure DevOps Marketplace Publisher Account](./creating-azure-devops-marketplace-publisher-account.png "Creating Azure DevOps Marketplace Publisher Account")
+
 Review [Marketplace Publisher Agreement](https://aka.ms/vsmarketplace-agreement)
 
 Click _Create_ button
