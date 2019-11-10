@@ -36,7 +36,7 @@ Click _Create_ button
 
 ## Installing TFS Cross Platform Command Line Interface (_tfx-cli_)
 
-Since [tfx-cli]((https://www.npmjs.com/package/tfx-cli)) is an _NPM_ package, you need to install [Node](http://nodejs.org/) first
+Since [tfx-cli](https://www.npmjs.com/package/tfx-cli) is an _NPM_ package, you need to install [Node](http://nodejs.org/) first
 
 It's good to install the tool globally, because probably you'll need it for many extension projects.
 
