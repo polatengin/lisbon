@@ -18,6 +18,8 @@ Maybe, others will find, install, benefit and enjoy _your_ extension 😀
 * Publisher Account
 * TFS Cross Platform Command Line Interface (_[tfx-cli](https://www.npmjs.com/package/tfx-cli)_) tool to package static files and produce _.vsix_ file
 
+![Azure DevOps Marketplace Extension Components](./extension-components.png "Azure DevOps Marketplace Extension Components")
+
 ## Creating a Publisher Account
 
 Sign-in to [Visual Studio Marketplace Publishing Portal](https://marketplace.visualstudio.com/manage/createpublisher)
